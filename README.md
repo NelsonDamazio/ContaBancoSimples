@@ -9,4 +9,4 @@
 
 -📙 Valor do dinheiro em moeda Brasileira
 
-O objetivo da aula era fazer algo simples com entrada de dados e as imprimir, porém foram introduzidas essas aplicações mesmo sendo somente para fins acidêmicos.🚀
+O objetivo da aula era fazer algo simples com entrada de dados e as imprimir, porém foram introduzidas essas aplicações mesmo sendo somente para fins acadêmicos.🚀
