@@ -1,4 +1,4 @@
-👋 Olá, tudo bem? É um prazer ter você por aqui. Esse é o meu projeto de estudos com intuito de fazer um Script de entrada e saida de dados em JAVA. O intuito do projeto é praticar o que foi ensinado dentro das aulas. Dito isso, foram feitas algumas aplicações, dentre elas:
+👋 Olá, tudo bem? É um prazer ter você por aqui. Esse é o meu projeto de estudos com intuito de fazer um Script de entrada e saída de dados em JAVA. O intuito do projeto é praticar o que foi ensinado dentro das aulas. Dito isso, foram feitas algumas aplicações, dentre elas:
 
 
 -📕 Uso do import
